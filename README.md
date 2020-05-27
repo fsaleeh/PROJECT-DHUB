@@ -1,12 +1,14 @@
 # PROJECT-DHUB
 
 Hello friend, i have a financial dataset. 
-You will find documets which includes 
+You will find documets which includes
+
 My Report
 
 Dashboard
 
 Definition of terms used in dataset
+
 Pictures of Dashboard
 
 My analysis is based on the performance of the business. 
